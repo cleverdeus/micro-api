@@ -34,7 +34,7 @@
     "@sentry/node": "^6.15.0",
     "axios": "^0.24.0",
     "class-transformer": "^0.5.1",
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "cli-color": "^2.0.1",
     "core-types": "https://github.com/cleverdeus/core-types.git",
     "cross-env": "^7.0.3",
